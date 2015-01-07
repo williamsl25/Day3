@@ -4,10 +4,17 @@
 
 # most important git commands 
 # git status- will tell you what changes you have made/status of the file
-# git add - you add files
+# git add - you add files to the local repository
 # git commit- will take the info that is ready to go to the repository
 # git checkout
-# git pull
-# git push origin master - 
+# git pull  will pull data from the server
+# git push  will push data onto the server
 # git clue
 # *add, commit, push to get info on server
+# untracked files - you haven't done anything yet
+# changes to be committed- means that files are ready to be 
+# added to server, pushed to server, changed in some way
+# origin master -push to the server (git hub)
+# git checkout will recover infor you added/changed/deleted by 
+# accident from the last time that you did git commit (save)
+# puts "What is your name"
